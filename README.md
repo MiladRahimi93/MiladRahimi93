@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me
-- 📚 Graduated with **BSc. in Software Engineering (78%)** from Kabul University  
+- 📚 Graduated with **BSc. in Software Engineering** from Kabul University  
 - 🛠️ Experienced in **Laravel, Livewire, Tailwind CSS, and modern web technologies**  
-- 🧪 Worked on major academic project **DVCAR** (Digital Vehicle Card & Registration system)  
+- 🧪 Worked on major academic project **DVCAR** (Database Mangament System for Vice Chancellor and Academic Research)  
 - 🔒 Interested in **networking, ethical hacking, and penetration testing**  
 - ✨ Strong background in **teaching English and customer service**  
 
@@ -41,7 +41,6 @@
 ## 📫 Contact Me
 - 📧 **Email:** eng.miladrahimi93@gmail.com  
 - 🌐 **GitHub:** [MiladRahimi93](https://github.com/MiladRahimi93)  
-- 💼 **LinkedIn:** (please update with your correct profile link)  
 - 📱 **Phone:** +93 783 919 922  
 
 ---
