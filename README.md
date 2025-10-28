@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 - 📚 Graduated with **BSc. in Software Engineering** from Kabul University  
-- 🛠️ Experienced in **Laravel, Livewire, Tailwind CSS, and modern web technologies**  
-- 🧪 Worked on major academic project **DVCAR** (Database Management System for Vice Chancellor and Academic Research)  
-- 🔒 Interested in **networking, ethical hacking, and penetration testing**  
-- ✨ Strong background in **teaching English and customer service**  
+- 🛠️ Experienced in **Laravel, React, Node, NEST JS, NEXT JS, Java Spring Boot, Tailwind CSS, and modern web technologies**  
+- 🧪 Worked on major academic project **DVCAR** (Database Management System for Vice Chancellor and Academic Research), HMIS(Hospital Managment System), Dari/Pashto NLP project 
+- 🔒 Interested in **Web Designing, Web Developing, Machine Learning, networking, ethical hacking, and penetration testing**  
+- ✨ Strong background in **Web Develpoping, Full Stack Developing, Java, teaching English and customer service**  
 
 ---
 
