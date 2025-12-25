@@ -1,86 +1,144 @@
-🚀 Milad Rahimi | Software Engineer & DevOps Practitioner
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%); backdrop-filter: blur(10px); border-radius: 20px; padding: 2rem; border: 1px solid rgba(255,255,255,0.1);">
-🎓 BSc. Software Engineering | Kabul University, 2025
-🏗️ Full-Stack Developer • DevOps Engineer • Security Enthusiast
-<div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem;"> <div style="background: rgba(255,255,255,0.08); padding: 0.5rem 1rem; border-radius: 12px;"> 🌍 **Kabul, Afghanistan** </div> <div style="background: rgba(255,255,255,0.08); padding: 0.5rem 1rem; border-radius: 12px;"> 📧 **eng.miladrahimi93@gmail.com** </div> <div style="background: rgba(255,255,255,0.08); padding: 0.5rem 1rem; border-radius: 12px;"> 📱 **+93 783 919 922** </div> </div></div>
-🎯 Professional Profile
-A results-driven Software Engineer with a comprehensive understanding of modern software development lifecycles, specializing in building scalable full-stack applications and implementing robust DevOps pipelines. Combines strong theoretical knowledge from formal education with practical experience in developing enterprise-grade systems, with a particular focus on healthcare and academic management solutions.
+# 🚀 Milad Rahimi | Software Engineer & DevOps Practitioner
 
-💼 Core Competencies
-🔧 Backend Development
-<div align="center" style="margin: 1.5rem 0;"> <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;"> <div style="background: linear-gradient(135deg, rgba(255,45,32,0.15) 0%, rgba(255,45,32,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(255,45,32,0.2);"> <strong>Laravel</strong> </div> <div style="background: linear-gradient(135deg, rgba(119,123,180,0.15) 0%, rgba(119,123,180,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(119,123,180,0.2);"> <strong>PHP</strong> </div> <div style="background: linear-gradient(135deg, rgba(237,139,0,0.15) 0%, rgba(237,139,0,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(237,139,0,0.2);"> <strong>Java</strong> </div> <div style="background: linear-gradient(135deg, rgba(109,179,63,0.15) 0%, rgba(109,179,63,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(109,179,63,0.2);"> <strong>Spring Boot</strong> </div> <div style="background: linear-gradient(135deg, rgba(51,153,51,0.15) 0%, rgba(51,153,51,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(51,153,51,0.2);"> <strong>Node.js</strong> </div> <div style="background: linear-gradient(135deg, rgba(224,35,78,0.15) 0%, rgba(224,35,78,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(224,35,78,0.2);"> <strong>NestJS</strong> </div> </div> </div>
-🎨 Frontend Development
-<div align="center" style="margin: 1.5rem 0;"> <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;"> <div style="background: linear-gradient(135deg, rgba(32,35,42,0.15) 0%, rgba(32,35,42,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(32,35,42,0.2);"> <strong>React</strong> </div> <div style="background: linear-gradient(135deg, rgba(53,73,94,0.15) 0%, rgba(53,73,94,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(53,73,94,0.2);"> <strong>Vue.js</strong> </div> <div style="background: linear-gradient(135deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(0,0,0,0.2);"> <strong>Next.js</strong> </div> <div style="background: linear-gradient(135deg, rgba(247,223,30,0.15) 0%, rgba(247,223,30,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(247,223,30,0.2);"> <strong>JavaScript</strong> </div> <div style="background: linear-gradient(135deg, rgba(56,178,172,0.15) 0%, rgba(56,178,172,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(56,178,172,0.2);"> <strong>Tailwind CSS</strong> </div> </div> </div>
-📊 DevOps & Infrastructure
-<div align="center" style="margin: 1.5rem 0;"> <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;"> <div style="background: linear-gradient(135deg, rgba(13,183,221,0.15) 0%, rgba(13,183,221,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(13,183,221,0.2);"> <strong>Docker</strong> </div> <div style="background: linear-gradient(135deg, rgba(37,99,235,0.15) 0%, rgba(37,99,235,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(37,99,235,0.2);"> <strong>Kubernetes</strong> </div> <div style="background: linear-gradient(135deg, rgba(215,43,31,0.15) 0%, rgba(215,43,31,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(215,43,31,0.2);"> <strong>Jenkins</strong> </div> <div style="background: linear-gradient(135deg, rgba(249,115,22,0.15) 0%, rgba(249,115,22,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(249,115,22,0.2);"> <strong>GitHub Actions</strong> </div> <div style="background: linear-gradient(135deg, rgba(241,101,41,0.15) 0%, rgba(241,101,41,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(241,101,41,0.2);"> <strong>Grafana</strong> </div> <div style="background: linear-gradient(135deg, rgba(224,27,67,0.15) 0%, rgba(224,27,67,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(224,27,67,0.2);"> <strong>Prometheus</strong> </div> <div style="background: linear-gradient(135deg, rgba(0,199,183,0.15) 0%, rgba(0,199,183,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(0,199,183,0.2);"> <strong>k6</strong> </div> <div style="background: linear-gradient(135deg, rgba(0,82,204,0.15) 0%, rgba(0,82,204,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(0,82,204,0.2);"> <strong>Jira</strong> </div> <div style="background: linear-gradient(135deg, rgba(67,81,181,0.15) 0%, rgba(67,81,181,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(67,81,181,0.2);"> <strong>Selenium</strong> </div> </div> </div>
-🗄️ Databases & Systems
-<div align="center" style="margin: 1.5rem 0;"> <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;"> <div style="background: linear-gradient(135deg, rgba(68,121,161,0.15) 0%, rgba(68,121,161,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(68,121,161,0.2);"> <strong>MySQL</strong> </div> <div style="background: linear-gradient(135deg, rgba(71,162,72,0.15) 0%, rgba(71,162,72,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(71,162,72,0.2);"> <strong>MongoDB</strong> </div> <div style="background: linear-gradient(135deg, rgba(252,196,24,0.15) 0%, rgba(252,196,24,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(252,196,24,0.2);"> <strong>Linux</strong> </div> <div style="background: linear-gradient(135deg, rgba(21,114,182,0.15) 0%, rgba(21,114,182,0.1) 100%); padding: 0.6rem 1.2rem; border-radius: 10px; border: 1px solid rgba(21,114,182,0.2);"> <strong>Redis</strong> </div> </div> </div>
-🏗️ Notable Projects
-<div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(5px); border-radius: 16px; padding: 1.5rem; margin: 2rem 0; border: 1px solid rgba(255,255,255,0.05);">
-🏥 Hospital Management Information System (HMIS)
-A comprehensive healthcare facility management platform
+<div align="center">
 
-Architecture: Microservices-based with API Gateway pattern
+## 🎓 BSc. Software Engineering | Kabul University, 2025
+### 🏗️ **Full-Stack Developer** • **DevOps Engineer** • **Security Enthusiast**
 
-Tech Stack: Laravel, React, MySQL, Docker, Redis
-
-Key Features:
-
-Real-time patient record management with audit trails
-
-Multi-role access control (Doctors, Nurses, Administrators)
-
-Appointment scheduling with conflict detection
-
-Pharmacy inventory management with automated reordering
-
-Integrated billing system with insurance claim processing
-
-DevOps Pipeline: Automated CI/CD using Jenkins, containerized with Docker, monitored via Grafana/Prometheus
-
-📚 DVCAR System
-Database Management for Vice Chancellor and Academic Research
-
-Scope: University-wide academic administration platform
-
-Technical Highlights:
-
-Implemented secure LDAP integration for university authentication
-
-Developed comprehensive reporting module with data visualization
-
-Designed role-based permissions for faculty, students, and administration
-
-Automated academic calendar and curriculum management
-
-Testing: Implemented Selenium-based E2E testing suite
-
-🌐 Dari/Pashto NLP Project
-Natural Language Processing for Local Afghan Languages
-
-Objective: Develop language tools for under-resourced languages
-
-Contributions:
-
-Built text preprocessing pipelines for Dari and Pashto scripts
-
-Implemented basic sentiment analysis models
-
-Created language datasets for future research
-
-Developed web interface for text analysis tools
-
-Performance: Load tested using k6 to handle concurrent user requests
+📍 **Kabul, Afghanistan** • 📧 **eng.miladrahimi93@gmail.com** • 📱 **+93 783 919 922**
 
 </div>
-📊 Development Metrics
-<div align="center" style="margin: 3rem 0;"><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;"><div style="background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); backdrop-filter: blur(10px); border-radius: 16px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.08);"> <h3 style="margin-top: 0;">GitHub Activity</h3> ![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&count_private=true&theme=algolia&bg_color=30,0d1117,161b22&title_color=fff&text_color=9ca3af&hide_border=true) </div><div style="background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); backdrop-filter: blur(10px); border-radius: 16px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.08);"> <h3 style="margin-top: 0;">Language Distribution</h3> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=algolia&bg_color=30,0d1117,161b22&title_color=fff&text_color=9ca3af&hide_border=true) </div></div><div style="background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); backdrop-filter: blur(10px); border-radius: 16px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.08); max-width: 800px; margin: 0 auto;"> <h3 style="margin-top: 0;">Consistency & Contribution Streak</h3> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiladRahimi93&theme=algolia&background=0d1117&border=444&stroke=444&ring=1da1f2&fire=1da1f2&currStreakLabel=1da1f2&hide_border=true) </div></div>
-🎖️ Professional Focus Areas
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;"><div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(5px); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(56, 178, 172, 0.2);"> <h4 style="color: #38b2ac; margin-top: 0;">🔄 DevOps Engineering</h4> <p style="color: #9ca3af; font-size: 0.9rem;"> Implementing CI/CD pipelines, containerization strategies, and monitoring solutions to ensure scalable and reliable deployments. </p> </div><div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(5px); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(247, 223, 30, 0.2);"> <h4 style="color: #f7df1e; margin-top: 0;">🛡️ Application Security</h4> <p style="color: #9ca3af; font-size: 0.9rem;"> Integrating security best practices throughout the development lifecycle, from secure coding to penetration testing. </p> </div><div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(5px); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(224, 35, 78, 0.2);"> <h4 style="color: #e0234e; margin-top: 0;">🏗️ System Architecture</h4> <p style="color: #9ca3af; font-size: 0.9rem;"> Designing scalable, maintainable systems with appropriate patterns and technologies for specific business needs. </p> </div><div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(5px); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(13, 183, 221, 0.2);"> <h4 style="color: #0db7dd; margin-top: 0;">📚 Knowledge Sharing</h4> <p style="color: #9ca3af; font-size: 0.9rem;"> Creating technical documentation, conducting workshops, and mentoring junior developers to foster team growth. </p> </div></div>
-📞 Professional Contact
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); backdrop-filter: blur(10px); border-radius: 16px; padding: 2rem; margin: 3rem 0; border: 1px solid rgba(255,255,255,0.08);"><h3 style="margin-top: 0; margin-bottom: 1.5rem;">Connect & Collaborate</h3><div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 1.5rem;"> <a href="mailto:eng.miladrahimi93@gmail.com" style="background: linear-gradient(135deg, rgba(220,53,69,0.2) 0%, rgba(220,53,69,0.1) 100%); padding: 0.8rem 1.5rem; border-radius: 10px; text-decoration: none; color: #fff; border: 1px solid rgba(220,53,69,0.3); display: flex; align-items: center; gap: 0.5rem;"> 📧 Email </a> <a href="https://github.com/MiladRahimi93" style="background: linear-gradient(135deg, rgba(24,24,24,0.2) 0%, rgba(24,24,24,0.1) 100%); padding: 0.8rem 1.5rem; border-radius: 10px; text-decoration: none; color: #fff; border: 1px solid rgba(24,24,24,0.3); display: flex; align-items: center; gap: 0.5rem;"> 💻 GitHub </a> <a href="#" style="background: linear-gradient(135deg, rgba(37,99,235,0.2) 0%, rgba(37,99,235,0.1) 100%); padding: 0.8rem 1.5rem; border-radius: 10px; text-decoration: none; color: #fff; border: 1px solid rgba(37,99,235,0.3); display: flex; align-items: center; gap: 0.5rem;"> 🌐 Portfolio </a> </div><div style="color: #9ca3af; font-size: 0.9rem;"> <strong>📍 Based in Kabul, Afghanistan</strong> • <strong>📱 +93 783 919 922</strong><br> <em>Open to remote opportunities, technical collaborations, and challenging projects</em> </div></div>
-<div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid rgba(255,255,255,0.1);">
-"Building robust systems that stand the test of scale and time"
-🔗 Available for consulting, full-time positions, and innovative project partnerships
 
-</div><style> body { background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #e2e8f0; font-family: 'Segoe UI', system-ui, sans-serif; } h1, h2, h3, h4 { color: #f8fafc; font-weight: 600; } a { transition: all 0.3s ease; } a:hover { transform: translateY(-2px); box-shadow: 0 10px 20px rgba(0,0,0,0.2); } </style>
+---
+
+## 🎯 Professional Profile
+
+Results-driven Software Engineer with expertise in modern software development lifecycles, specializing in scalable full-stack applications and robust DevOps pipelines. Combines strong theoretical knowledge with practical experience in enterprise-grade systems, particularly in healthcare and academic management solutions.
+
+---
+
+## 💼 Technical Stack
+
+### **🔧 Backend Development**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### **🎨 Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **📊 DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+### **🗄️ Databases & Systems**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🏗️ Notable Projects
+
+### **🏥 Hospital Management Information System (HMIS)**
+*A comprehensive healthcare facility management platform*
+
+- **Architecture**: Microservices-based with API Gateway pattern
+- **Tech Stack**: Laravel, React, MySQL, Docker, Redis
+- **Key Features**:
+  - Real-time patient record management with audit trails
+  - Multi-role access control (Doctors, Nurses, Administrators)
+  - Appointment scheduling with conflict detection
+  - Pharmacy inventory management with automated reordering
+  - Integrated billing system with insurance claim processing
+- **DevOps Pipeline**: Automated CI/CD using Jenkins, containerized with Docker, monitored via Grafana/Prometheus
+
+### **📚 DVCAR System**
+*Database Management for Vice Chancellor and Academic Research*
+
+- **Scope**: University-wide academic administration platform
+- **Technical Highlights**:
+  - Implemented secure LDAP integration for university authentication
+  - Developed comprehensive reporting module with data visualization
+  - Designed role-based permissions for faculty, students, and administration
+  - Automated academic calendar and curriculum management
+- **Testing**: Implemented Selenium-based E2E testing suite
+
+### **🌐 Dari/Pashto NLP Project**
+*Natural Language Processing for Local Afghan Languages*
+
+- **Objective**: Develop language tools for under-resourced languages
+- **Contributions**:
+  - Built text preprocessing pipelines for Dari and Pashto scripts
+  - Implemented basic sentiment analysis models
+  - Created language datasets for future research
+  - Developed web interface for text analysis tools
+- **Performance**: Load tested using k6 to handle concurrent user requests
+
+---
+
+## 📊 Development Metrics
+
+<div align="center">
+
+### GitHub Statistics
+
+![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&count_private=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiladRahimi93&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎖️ Professional Focus Areas
+
+| Area | Description |
+|------|-------------|
+| **🔄 DevOps Engineering** | Implementing CI/CD pipelines, containerization strategies, and monitoring solutions for scalable and reliable deployments |
+| **🛡️ Application Security** | Integrating security best practices throughout the development lifecycle, from secure coding to penetration testing |
+| **🏗️ System Architecture** | Designing scalable, maintainable systems with appropriate patterns and technologies for specific business needs |
+| **📚 Knowledge Sharing** | Creating technical documentation, conducting workshops, and mentoring junior developers to foster team growth |
+
+---
+
+## 📞 Contact & Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-eng.miladrahimi93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.miladrahimi93@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladRahimi93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladRahimi93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+**📍 Based in Kabul, Afghanistan** • **📱 +93 783 919 922**
+
+*Open to remote opportunities, technical collaborations, and challenging projects*
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building robust systems that stand the test of scale and time"*
+
+**🔗 Available for consulting, full-time positions, and innovative project partnerships**
+
+</div>
