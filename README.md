@@ -98,7 +98,11 @@ Results-driven Software Engineer with expertise in modern software development l
 
 ### GitHub Statistics
 
-![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&count_private=true&theme=dark&hide_border=true)
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladRahimi93&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=dark&hide_border=true)
 
