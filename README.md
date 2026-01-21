@@ -1,17 +1,17 @@
-# 🚀 Milad Rahimi | Software Engineer & DevOps Practitioner
+#  Milad Rahimi | Software Engineer & DevOps Practitioner
 
 <div align="center">
 
-## 🎓 BSc. Software Engineering | Kabul University, 2025
-### 🏗️ **Full-Stack Developer** • **DevOps Engineer** • **Security Enthusiast**
+##  BSc. Software Engineering | Kabul University, 2025
+### **Full-Stack Developer** • **DevOps Engineer** • **Security Enthusiast**
 
-📍 **Kabul, Afghanistan** • 📧 **eng.miladrahimi93@gmail.com** • 📱 **+93 783 919 922**
+ **Kabul, Afghanistan** • 📧 **eng.miladrahimi93@gmail.com** • 📱 **+93 783 919 922**
 
 </div>
 
 ---
 
-## 🎯 Professional Profile
+##  Professional Profile
 
 Results-driven Software Engineer with expertise in modern software development lifecycles, specializing in scalable full-stack applications and robust DevOps pipelines. Combines strong theoretical knowledge with practical experience in enterprise-grade systems, particularly in healthcare and academic management solutions.
 
