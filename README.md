@@ -11,7 +11,7 @@ Kabul, Afghanistan
 **Phone:** +93 783 919 922
 
 [GitHub](https://github.com/MiladRahimi93) •
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/milad-rahimi-133735376/))
+[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/milad-rahimi-133735376))
 
 </div>
 
@@ -148,7 +148,7 @@ Research-oriented system focused on computational processing for Afghan language
 
 [Email](mailto:eng.miladrahimi93@gmail.com) •
 [GitHub](https://github.com/MiladRahimi93) •
-[LinkedIn]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/milad-rahimi-133735376/)
+[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/milad-rahimi-133735376/))
 
 </div>
 
