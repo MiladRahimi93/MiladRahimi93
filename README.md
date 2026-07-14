@@ -1,154 +1,240 @@
-# Milad Rahimi
+# Hi, I'm Milad Rahimi 👋
 
 <div align="center">
 
-### Software Engineer • DevOps Practitioner • Application Security
+### Full Stack Software Engineer • Fintech • Backend Systems
 
-BSc. Software Engineering — **Kabul University (2025)**  
-Kabul, Afghanistan
+Building secure, scalable fintech and enterprise applications with Java, Spring Boot, NestJS, Laravel, and React.
 
-**Email:** [eng.miladrahimi93@gmail.com](mailto:eng.miladrahimi93@gmail.com)  
-**Phone:** +93 783 919 922
+[![Portfolio](https://img.shields.io/badge/Portfolio-milad--rahimi.lovable.app-black?style=for-the-badge&logo=vercel)](https://milad-rahimi.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad%20Rahimi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milad-rahimi-133735376/)
+[![GitHub](https://img.shields.io/badge/GitHub-MiladRahimi93-181717?style=for-the-badge&logo=github)](https://github.com/MiladRahimi93)
 
-[GitHub](https://github.com/MiladRahimi93) •
-[LinkedIn](https://www.linkedin.com/in/milad-rahimi-133735376)
+📍 Kabul, Afghanistan
 
 </div>
 
 ---
 
-## Professional Summary
+# About Me
 
-Software Engineer specializing in **scalable backend systems, modern full-stack development, and DevOps infrastructure**. Experienced in designing and deploying reliable software platforms using containerized environments, automated CI/CD pipelines, and modern software architecture.
+I'm a **Software Engineer** with a BSc in Software Engineering from Kabul University, passionate about building reliable backend systems and enterprise-grade applications.
 
-Primary interests include:
+I specialize in:
 
-- Cloud-native application development
-- DevOps automation and monitoring
-- Secure software architecture
-- Data systems and distributed applications
-- Natural language technologies for low-resource languages
+- 💳 Fintech & Payment Platforms
+- ☕ Java & Spring Boot
+- 🚀 NestJS & Node.js
+- ⚛️ React & Modern Frontend
+- 🏗 Microservice Architecture
+- 🔐 Secure API Design
+- 🗄 PostgreSQL & MySQL
+
+Currently building fintech products including:
+
+- NaqdPay
+- MilliePay
+- ShahyPay
+- Finlevia
+- Mohaseb
 
 ---
 
-## Technical Stack
+# Tech Stack
 
-### Backend Engineering
+## Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Frontend Development
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### DevOps & Infrastructure
+## Database
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-
-### Databases & Systems
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## Selected Projects
+# Professional Experience
 
-### Hospital Management Information System (HMIS)
+### PARSA Technologies
+**Full Stack Software Engineer**
 
-Healthcare platform designed using **microservice architecture** to support hospital operations.
+Working on enterprise fintech platforms including:
 
-**Technologies:** Laravel, React, Docker, Redis, MySQL
+- NaqdPay
+- MilliePay
+- ShahyPay
 
-**Core capabilities:**
-- Electronic patient record management with audit tracking
-- Multi-role access control for medical staff and administrators
-- Appointment scheduling with automated conflict detection
-- Pharmacy inventory system with automated alerts
-- Integrated billing and insurance processing
+Highlights:
 
-**Infrastructure:**
-- Automated CI/CD pipelines using Jenkins
-- Containerized deployment via Docker
-- Monitoring using Prometheus and Grafana
-
-### DVCAR Academic Administration System
-
-University-scale platform supporting academic research and administrative workflows.
-
-**Key features:**
-- LDAP authentication integrated with university identity systems
-- Role-based permissions for faculty, students, and administrators
-- Academic calendar automation
-- Reporting and analytics dashboards
-- End-to-end test automation using Selenium
-
-### Dari / Pashto Natural Language Processing Project
-
-Research-oriented system focused on computational processing for Afghan languages.
-
-**Contributions:**
-- Text preprocessing pipelines for Dari and Pashto scripts
-- Sentiment analysis prototype models
-- Dataset creation for language research
-- Web interface for linguistic analysis
-- Load testing with k6 for concurrency evaluation
+- Payment Gateway Development
+- APS Integration
+- CBS & CMS Modules
+- Spring Boot Microservices
+- Laravel APIs
+- React Applications
+- Enterprise Authentication
+- Banking Integrations
 
 ---
 
-## GitHub Statistics
+### YRMPT
+
+Developed:
+
+- ERP System
+- Hospital Management System (HMIS)
+
+Technologies:
+
+Spring Boot • NestJS • Laravel • React • PostgreSQL • MongoDB • MySQL
+
+---
+
+### Kabul University
+
+Developed the **Vice Chancellor for Academic Research System (DVCAR)** for managing:
+
+- Academic Profiles
+- Books
+- Journals
+- Research
+- Publications
+
+Built using Laravel, Livewire, React, and PostgreSQL.
+
+---
+
+# Featured Projects
+
+### 💳 NaqdPay
+
+Enterprise fintech platform powering digital payments.
+
+**Stack**
+
+Spring Boot • Java • Microservices • Payment Gateway
+
+---
+
+### 🏦 MilliePay
+
+Digital banking platform for Bank-e-Millie Afghan.
+
+- APS Integration
+- Banking APIs
+- Secure Transactions
+
+---
+
+### 💰 ShahyPay
+
+Merchant payment solution.
+
+- Spring Boot
+- Payment Gateway
+- Backend Services
+
+---
+
+### 📊 Finlevia
+
+Enterprise fintech dashboard.
+
+Laravel • React
+
+---
+
+### 📈 Mohaseb
+
+Accounting & Financial Management Platform.
+
+JHipster • Spring Boot • Angular
+
+---
+
+### 🏥 HMIS
+
+Hospital Management Information System.
+
+NestJS • React • MySQL
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&locale=en&theme=gruvbox" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&theme=tokyonight"/>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=MiladRahimi93&theme=gruvbox" />
+<br>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=MiladRahimi93&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiladRahimi93&theme=github" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiladRahimi93&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-## Areas of Focus
+# Currently Learning
 
-- DevOps engineering and CI/CD automation
-- Cloud infrastructure and container orchestration
-- Secure application architecture
-- Distributed systems and scalability
-- Natural language processing for Afghan languages
+- Distributed Systems
+- Software Architecture
+- Domain-Driven Design (DDD)
+- Event-Driven Architecture
+- DevOps
+- Application Security
 
 ---
 
-## Professional Contact
+# Connect
 
 <div align="center">
 
-[Email](mailto:eng.miladrahimi93@gmail.com) •
-[GitHub](https://github.com/MiladRahimi93) •
-[LinkedIn](https://www.linkedin.com/in/milad-rahimi-133735376/)
+🌐 **Portfolio**
+
+https://milad-rahimi.lovable.app
+
+📧 **Email**
+
+miladrahimi93@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/milad-rahimi-133735376/
+
+💻 **GitHub**
+
+https://github.com/MiladRahimi93
+
+📱 **Phone**
+
++93 783 919 922
 
 </div>
 
@@ -156,6 +242,8 @@ Research-oriented system focused on computational processing for Afghan language
 
 <div align="center">
 
-**Building reliable software systems designed for scale, security, and long-term maintainability.**
+### "Building secure fintech platforms and enterprise software that scale."
+
+⭐ If you like my work, consider following my GitHub profile.
 
 </div>
