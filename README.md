@@ -22,13 +22,13 @@ I'm a **Software Engineer** with a BSc in Software Engineering from Kabul Univer
 
 I specialize in:
 
-- 💳 Fintech & Payment Platforms
-- ☕ Java & Spring Boot
-- 🚀 NestJS & Node.js
-- ⚛️ React & Modern Frontend
-- 🏗 Microservice Architecture
-- 🔐 Secure API Design
-- 🗄 PostgreSQL & MySQL
+- Fintech & Payment Platforms
+- Java & Spring Boot
+- NestJS & Node.js
+- React & Modern Frontend
+- Microservice Architecture
+- Secure API Design
+- PostgreSQL & MySQL
 
 Currently building fintech products including:
 
@@ -127,7 +127,7 @@ Built using Laravel, Livewire, React, and PostgreSQL.
 
 # Featured Projects
 
-### 💳 NaqdPay
+### NaqdPay
 
 Enterprise fintech platform powering digital payments.
 
@@ -137,7 +137,7 @@ Spring Boot • Java • Microservices • Payment Gateway
 
 ---
 
-### 🏦 MilliePay
+### MilliePay
 
 Digital banking platform for Bank-e-Millie Afghan.
 
@@ -147,7 +147,7 @@ Digital banking platform for Bank-e-Millie Afghan.
 
 ---
 
-### 💰 ShahyPay
+### ShahyPay
 
 Merchant payment solution.
 
@@ -157,7 +157,7 @@ Merchant payment solution.
 
 ---
 
-### 📊 Finlevia
+### Finlevia
 
 Enterprise fintech dashboard.
 
@@ -165,7 +165,7 @@ Laravel • React
 
 ---
 
-### 📈 Mohaseb
+### Mohaseb
 
 Accounting & Financial Management Platform.
 
@@ -173,7 +173,7 @@ JHipster • Spring Boot • Angular
 
 ---
 
-### 🏥 HMIS
+### HMIS
 
 Hospital Management Information System.
 
@@ -216,23 +216,23 @@ NestJS • React • MySQL
 
 <div align="center">
 
-🌐 **Portfolio**
+ **Portfolio**
 
 https://milad-rahimi.lovable.app
 
-📧 **Email**
+ **Email**
 
 miladrahimi93@gmail.com
 
-💼 **LinkedIn**
+ **LinkedIn**
 
 https://www.linkedin.com/in/milad-rahimi-133735376/
 
-💻 **GitHub**
+ **GitHub**
 
 https://github.com/MiladRahimi93
 
-📱 **Phone**
+ **Phone**
 
 +93 783 919 922
 
