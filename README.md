@@ -1,4 +1,4 @@
-# Hi, I'm Milad Rahimi 👋
+# Hi, I'm Milad Rahimi 
 
 <div align="center">
 
